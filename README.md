@@ -1,4 +1,4 @@
-# Data Scientist Projetct, Dataset: "Bank-Marketing-Data" 
+# Data Scientist Proyect, Dataset: "Bank-Marketing-Data" 
 
 This project was created with the goal of honing programming skills and developing proficiency as a data analyst, contributing to the professional growth toward a career as a Data Scientist.
 
