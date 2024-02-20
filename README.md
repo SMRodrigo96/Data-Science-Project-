@@ -9,3 +9,5 @@ The project serves as a practice ground for various programming and data analysi
 ## Technologies Used
 . Python
 . Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn Among ohters
+
+Link Dataset Kaggle URL: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
