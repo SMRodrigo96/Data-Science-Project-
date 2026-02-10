@@ -39,14 +39,6 @@ Seaborn
 
 Scikit-learn
 
-🗂 Project Structure
-Data-Science-Project/
-│
-├── data/              # Dataset files
-├── notebooks/         # Jupyter notebooks with analysis and modeling
-├── README.md          # Project documentation
-└── requirements.txt  # Libraries used
-
 🔬 Methodology
 
 Data loading and inspection
