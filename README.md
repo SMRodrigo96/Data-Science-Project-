@@ -68,14 +68,14 @@ cd Data-Science-Project-
 pip install -r requirements.txt
 jupyter notebook
 
-📌 Key Learnings
+## 📌 Key Learnings
 
 - End-to-end machine learning workflow
 - Data preprocessing best practices
 - Model evaluation and comparison
 - Translating analytical results into business-oriented insights
 
-👤 Author
+## 👤 Author
 
 Rodrigo Santa Maria
 Aspiring Data Analyst / Junior Data Scientist
