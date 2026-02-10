@@ -67,6 +67,7 @@ git clone https://github.com/SMRodrigo96/Data-Science-Project-
 cd Data-Science-Project-
 pip install -r requirements.txt
 jupyter notebook
+```
 
 ## 📌 Key Learnings
 
