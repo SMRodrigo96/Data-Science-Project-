@@ -1,85 +1,70 @@
-📊 Data Science Project – Bank Marketing Dataset
-🔍 Project Overview
+# 📊 Data Science Project – Bank Marketing Dataset
 
-This project focuses on applying data science and machine learning techniques to the Bank Marketing Dataset from the UCI Machine Learning Repository.
+## 🔍 Project Overview
+
+This project focuses on applying data science and machine learning techniques to the **Bank Marketing Dataset** from the UCI Machine Learning Repository.  
 The main objective is to analyze customer data and build predictive models to determine whether a client is likely to subscribe to a term deposit.
 
-This project is part of my professional portfolio and reflects my training as a Data Analyst / Junior Data Scientist, emphasizing data preparation, exploratory analysis, and predictive modeling.
+This project is part of my professional portfolio and reflects my training as a **Data Analyst / Junior Data Scientist**, emphasizing data preparation, exploratory analysis, and predictive modeling.
 
-🎯 Objectives
+---
 
-Perform data cleaning and preprocessing
+## 🎯 Objectives
 
-Conduct exploratory data analysis (EDA)
+- Perform data cleaning and preprocessing  
+- Conduct exploratory data analysis (EDA)  
+- Engineer relevant features  
+- Train and evaluate machine learning models  
+- Extract insights to support business decision-making  
 
-Engineer relevant features
+---
 
-Train and evaluate machine learning models
+## 📁 Dataset
 
-Extract insights to support business decision-making
-
-📁 Dataset
-
-Source: UCI Machine Learning Repository – Bank Marketing Dataset
-https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+**Source:** UCI Machine Learning Repository – Bank Marketing Dataset  
+https://archive.ics.uci.edu/ml/datasets/Bank+Marketing  
 
 The dataset contains information about bank clients, including demographic, financial, and campaign-related attributes.
 
-🛠️ Technologies & Tools
+---
 
-Python
+## 🛠️ Technologies & Tools
 
-Pandas
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn  
 
-NumPy
+---
 
-Matplotlib
+## 🔬 Methodology
 
-Seaborn
+1. Data loading and inspection  
+2. Data cleaning and handling missing values  
+3. Exploratory Data Analysis (EDA)  
+4. Feature engineering  
+5. Model training and evaluation  
+6. Interpretation of results  
 
-Scikit-learn
+---
 
-🔬 Methodology
+## 📊 Results & Insights
 
-Data loading and inspection
+- Identified key variables influencing term deposit subscription  
+- Built and evaluated classification models  
+- Achieved solid performance for a baseline machine learning solution  
 
-Data cleaning and handling missing values
+*(You can later add specific metrics such as accuracy, precision, recall, or F1-score.)*
 
-Exploratory Data Analysis (EDA)
+---
 
-Feature engineering
+## 🚀 How to Run the Project
 
-Model training and evaluation
-
-Interpretation of results
-
-📊 Results & Insights
-
-Identified key variables influencing term deposit subscription
-
-Built and evaluated classification models
-
-Achieved solid performance for a baseline machine learning solution
-
-(You can later add specific metrics if you want: accuracy, precision, recall, etc.)
-
-🚀 How to Run the Project
+```bash
 git clone https://github.com/SMRodrigo96/Data-Science-Project-
 cd Data-Science-Project-
 pip install -r requirements.txt
 jupyter notebook
 
-📌 Key Learnings
-
-End-to-end machine learning workflow
-
-Data preprocessing best practices
-
-Model evaluation and comparison
-
-Translating analytical results into business-oriented insights
-
-👤 Author
-
-Rodrigo Santa Maria
-Aspiring Data Analyst / Junior Data Scientist
